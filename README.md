@@ -1,6 +1,6 @@
 # Run The Project
 
-To run the project click the [link](https://movieapihkuray.surge.sh)
+To run the project click the [link](https://movieapihkry.surge.sh).
 
 ## Description
 

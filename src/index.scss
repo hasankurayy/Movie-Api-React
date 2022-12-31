@@ -106,6 +106,28 @@ body{
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+
+.logo-mine {
+        transform: rotate(-6deg);
+        transition: all .3s ease;
+
+        a {
+            font-size: 30px;
+            color: #fff;
+            font-weight: 700;
+            background-color: #bf6f13;
+            border-radius: 40px;
+            border-bottom: 2px solid #6294de;
+            text-shadow: 2px 2px 0px #000;
+            font-family: "Leckerli One";
+        }
+    }
+
+    .logo-mine:hover {
+        transform: rotate(0deg);
+    }
+
 .container{
   margin: auto;
   width: 80%;

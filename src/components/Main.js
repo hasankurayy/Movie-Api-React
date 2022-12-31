@@ -47,6 +47,9 @@ function Main() {
     return (
         <div>
             <div className="header">
+                <div className="logo-mine">
+                    <a href="#">HKRY</a>
+                </div>
                 <nav>
                     <ul>
                         {movieTypeArr.map(movieType => (
